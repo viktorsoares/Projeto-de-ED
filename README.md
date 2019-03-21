@@ -1,5 +1,5 @@
 # Projeto-de-ED
-# 01 - Princesa 
+# 01 - Princesa
 
 * O que você fez
   * Consegui fazer a primeira e a segunda versao da princesa .
@@ -24,3 +24,16 @@
   * Ainda não entendi por completo sobre função recursiva.
 * Quanto tempo levou pra fazer a atividade
   * Dois dias.
+
+# 03 - Labirinto
+
+* O que você fez
+  * Consegui fazer a primeira parte do labirinto e quase completei a segunda parte.
+* Com quem e como você fez
+  * Com o amigo Matheus e o monitor Emanuel, revendo o código da queimada.
+* O que aprendeu e sabe fazer
+  * Chamada recursiva, usar a função hand para mudar o caminho da matriz a ser percorrido deixando randomizado .
+* O que tem dificuldade ainda
+  * Ainda não entendi por completo sobre função recursiva e tive dificuldade na hora de fazer o caminho.
+* Quanto tempo levou pra fazer a atividade
+  * três dias.
