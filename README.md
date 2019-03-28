@@ -37,3 +37,16 @@
   * Ainda não entendi por completo sobre função recursiva e tive dificuldade na hora de fazer o caminho.
 * Quanto tempo levou pra fazer a atividade
   * três dias.
+
+# 04 - Fractais
+
+* O que você fez
+  * Consegui fazer a árvore, floco de neve e o cículo.
+* Com quem e como você fez
+  * Com o amigo, revendo o código da arvore para fazer os flocos de neve e com os flocos de neve consegui fazer o dos círculos.
+* O que aprendeu e sabe fazer
+  * A usar a xm_cos e xm_sin, a xm_rande dentro da xs_color para randomizar as cores, x_save, xd_circle e a xd_thick_line.
+* O que tem dificuldade ainda
+  * Com o fractal do quadrado.
+* Quanto tempo levou pra fazer a atividade
+  * Sete dias mais ou menos.
