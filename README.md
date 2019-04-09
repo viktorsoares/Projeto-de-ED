@@ -50,3 +50,16 @@
   * Com o fractal do quadrado.
 * Quanto tempo levou pra fazer a atividade
   * Sete dias mais ou menos.
+
+# 06 - Sort
+
+* O que você fez
+  * Consegui fazer o bubble e o selection.
+* Com quem e como você fez
+  * Com o Matheus e revendo a video aula consegui fazer.
+* O que aprendeu e sabe fazer
+  * A utilizar a #define para fazer o swap e a xd_vet.
+* O que tem dificuldade ainda
+  * A resolver o problema que deu na hora da execução do programa, so rodava uma vez a xd_vet e não soube o motivo.
+* Quanto tempo levou pra fazer a atividade
+  * 6 horas.
