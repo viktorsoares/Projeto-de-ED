@@ -1,6 +1,4 @@
 # Projeto-de-ED
-# 01 - Princesa
-
 * O que você fez
   * Consegui fazer a primeira e a segunda versao da princesa .
 * Com quem e como você fez
@@ -54,7 +52,7 @@
 # 06 - Sort
 
 * O que você fez
-  * Consegui fazer o bubble e o selection.
+  * Consegui fazer o bubble , selection e insertion.
 * Com quem e como você fez
   * Com o Matheus e revendo a video aula consegui fazer.
 * O que aprendeu e sabe fazer
